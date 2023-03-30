@@ -1,0 +1,8 @@
+{
+  "name": "1_criando_projeto",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto com yarn",
+  "main": "index.js",
+  "author": "scrviy",
+  "license": "MIT"
+}
