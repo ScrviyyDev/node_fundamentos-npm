@@ -1,0 +1,16 @@
+{
+  "name": "5_scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "chalk": "^5.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
